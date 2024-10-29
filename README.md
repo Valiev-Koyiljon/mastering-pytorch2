@@ -1,3 +1,3 @@
 # mastering-pytorch2
 
-![Uploading book.jpg…]()
+![Book Image](./book.jpg)
