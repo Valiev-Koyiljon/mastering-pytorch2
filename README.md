@@ -1,10 +1,9 @@
-# mastering-pytorch2
-
-![Book Image](./book.jpg)
 
 # Mastering PyTorch 2
 
 This repository contains my learning journey through the book "Mastering PyTorch, Second Edition" published by Packt. The repository focuses on implementing deep learning solutions and exploring advanced PyTorch features.
+![Book Image](./book.jpg)
+
 
 ## Book Overview
 
